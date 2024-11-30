@@ -1,0 +1,13 @@
+.mainBox{
+    width: 30vw;
+    height: 30vh;
+    border: 1px solid black;
+}
+
+.mainBox{
+    margin-top: 5vh;
+}
+
+.mainBox > #humanPlayer{
+    margin-top:10vh;
+}
